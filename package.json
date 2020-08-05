@@ -1,5 +1,5 @@
 {
-  "name": "remove-comment-loader",
+  "name": "remove-comment-plugin-loader",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
